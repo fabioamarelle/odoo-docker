@@ -1,0 +1,1 @@
+A quick-start `docker-compose` setup to spin up an Odoo 18 instance paired with a PostgreSQL 15 database. This environment is pre-configured with persistent storage and local folder mappings for custom addons and configuration files.
